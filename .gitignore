@@ -1,0 +1,12 @@
+# any file with .txt extension
+#*.txt
+
+tempfile.txt
+*zip
+*gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+# not ignore
+!assets/videos/tour_*.mp4
